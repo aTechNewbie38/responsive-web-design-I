@@ -84,12 +84,10 @@ h1, h2, h3, h4, h5 {
 }
 
 .navLink a:first-child{
-    background: green; 
     margin-left: 0; 
 }
 
 .navLink a:last-child{
-    background: green; 
     margin-right: 0; 
 }
 
